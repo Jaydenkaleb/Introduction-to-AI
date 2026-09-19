@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPExmxtFKi1qHahMtaEck2q",
+      "authorship_tag": "ABX9TyOSgoB3KomiQgPoapuHRKg/",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -1063,7 +1063,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "The model predicted correctly. thos eteh image is blury becasue of teh size"
+        "The model predicted correctly. eventhough the image is blury"
       ],
       "metadata": {
         "id": "8N2RtuRWNx-g"
